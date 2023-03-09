@@ -14,7 +14,12 @@ let factorial = (num) => { // function factorial() {}
 
 
 console.log(factorial(5));
+
 const happyDay = ()=>{
     console.log(" :) ");
     happyDay();
-}
+
+happyDay()
+happyDay()
+
+
